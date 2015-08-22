@@ -7,22 +7,22 @@ let double s = Double.Parse s
 
 let parsePassing (values:string array) =
     {
-        PassYd = values.[2] |> double
-        PassTd = values.[3] |> double
-        Int = values.[4] |> double
+        PassYd = values.[1] |> double
+        PassTd = values.[2] |> double
+        Int = values.[3] |> double
     }
 
 let parseRushing (values:string array) =
     {
         RushYd = values.[1] |> double
-        RushTd = values.[3] |> double
+        RushTd = values.[2] |> double
     }
 
 let parseReceiving (values:string array) =
     {
         RecNum = values.[0] |> double
         RecYd = values.[1] |> double
-        RecTd = values.[3] |> double
+        RecTd = values.[2] |> double
     }
 
 type Position =
@@ -35,10 +35,10 @@ type Position =
 
 let positions =
     [
-        { Position="QB"; PassingStats = Some(1,7); RushingStats = Some(8,12); ReceivingStats = None }
-        { Position="RB"; PassingStats = None; RushingStats = Some(1,4); ReceivingStats = Some(5,8) }
-        { Position="WR"; PassingStats = None; RushingStats = None; ReceivingStats = Some(1,4) }
-        { Position="TE"; PassingStats = None; RushingStats = None; ReceivingStats = Some(1,4) }
+        { Position="QB"; PassingStats = Some(2,5); RushingStats = Some(6,8); ReceivingStats = None }
+        { Position="RB"; PassingStats = None; RushingStats = Some(6,8); ReceivingStats = Some(9,11) }
+        { Position="WR"; PassingStats = None; RushingStats = None; ReceivingStats = Some(9,11) }
+        { Position="TE"; PassingStats = None; RushingStats = None; ReceivingStats = Some(9,11) }
     ]
 
 let parseStats columns parser (values:string array) =
@@ -49,7 +49,7 @@ let parseStats columns parser (values:string array) =
 let parsePositionRow position (row:string) =
     let values = row.Split [| ',' |]
     {
-        Name = values.[0]
+        Name = values.[1]
         Position = position.Position
         PassingStats = parseStats position.PassingStats parsePassing values
         RushingStats = parseStats position.RushingStats parseRushing values
