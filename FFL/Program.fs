@@ -4,7 +4,7 @@ open Analysis
 open FileIO
 open Leagues
 
-let dataPath = @"..\..\data\"
+let dataPath = @"..\..\..\data\2015\"
 let columns = "Player,Position,Score,Marginal Value"
 
 let analyze league = 
@@ -15,4 +15,4 @@ let analyze league =
     FileIO.writeFile (dataPath+league.Name+"_FFL.csv") (columns+"\n"+output)
 
 analyze auctionLeague
-//analyze carolinaLeague
+analyze carolinaLeague

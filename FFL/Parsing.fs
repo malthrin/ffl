@@ -56,7 +56,7 @@ let parsePositionRow position (row:string) =
         ReceivingStats = parseStats position.ReceivingStats parseReceiving values
     }
 
-let loadPositionFile dataPath position = FileIO.loadFile (dataPath + "fantasyfootball-stats_weeklyprojections_"+position.Position+"_season.csv")
+let loadPositionFile dataPath position = FileIO.loadFile (dataPath + "FFL Data - "+position.Position+".csv")
 
 let parsePositionFile dataPath position =
     let contents = loadPositionFile dataPath position
