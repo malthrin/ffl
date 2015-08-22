@@ -1,0 +1,13 @@
+c:\users\zmj\documents\visual studio 2010\Projects\FFL\FFL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zmj\documents\visual studio 2010\Projects\FFL\FFL\bin\Debug\FFL.XML
+c:\users\zmj\documents\visual studio 2010\Projects\FFL\FFL\bin\Debug\FFL.exe
+c:\users\zmj\documents\visual studio 2010\Projects\FFL\FFL\bin\Debug\FFL.pdb
+c:\users\zmj\documents\visual studio 2010\Projects\FFL\FFL\obj\x86\Debug\FFL.exe
+c:\users\zmj\documents\visual studio 2010\Projects\FFL\FFL\obj\x86\Debug\FFL.pdb
+C:\Users\zmj\Documents\FFL\FFL\bin\Debug\FFL.XML
+C:\Users\zmj\Documents\FFL\FFL\bin\Debug\FFL.exe
+C:\Users\zmj\Documents\FFL\FFL\bin\Debug\FFL.pdb
+C:\Users\zmj\Documents\FFL\FFL\bin\Debug\FSharp.Core.dll
+C:\Users\zmj\Documents\FFL\FFL\bin\Debug\FSharp.Core.xml
+C:\Users\zmj\Documents\FFL\FFL\obj\x86\Debug\FFL.exe
+C:\Users\zmj\Documents\FFL\FFL\obj\x86\Debug\FFL.pdb
