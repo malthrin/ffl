@@ -34,13 +34,13 @@ let auctionLeague = { Name="auction"; Scoring=auctionScoring; Roster=auctionRost
 
 let carolinaScoring =
     {
-        PassYd = 0.025
+        PassYd = 0.04
         PassTd = 4
-        Int = 0
-        RushYd = 0.04
+        Int = -1
+        RushYd = 0.1
         RushTd = 6
         PPR = false
-        RecYd = 0.066
+        RecYd = 0.1
         RecTd = 6
     }
 
