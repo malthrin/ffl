@@ -49,8 +49,7 @@ let parseStats columns parser (values:string array) =
 let parsePositionRow position (row:string) =
     let values = row.Split [| ',' |]
     {
-        Name = values.[1]
-        Position = position.Position
+        Player = { Name=values.[1]; Position=position.Position }
         PassingStats = parseStats position.PassingStats parsePassing values
         RushingStats = parseStats position.RushingStats parseRushing values
         ReceivingStats = parseStats position.ReceivingStats parseReceiving values

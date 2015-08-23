@@ -20,10 +20,15 @@ type ReceivingStats =
         RecTd: float
     }
 
-type PlayerStats = 
+type Player =
     {
         Name: string
         Position: string
+    }
+
+type PlayerStats = 
+    {
+        Player: Player
         PassingStats: PassingStats option
         RushingStats: RushingStats option
         ReceivingStats: ReceivingStats option
