@@ -1,76 +1,77 @@
 PLAYERS,,PASSING,,,,RUSHING,,,RECEIVING,,,TOTAL
 RNK,PLAYER TEAM POS,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
-1,Aaron Rodgers GB QB,347/538,4317,35,8,50,256,2,0,0,0,325.1
-2,Andrew Luck Ind QB,383/621,4484,36,16,57,268,2,0,0,0,321.2
-3,Russell Wilson Sea QB,278/455,3461,26,9,101,623,4,0,0,0,301.7
-4,Drew Brees NO QB,404/617,4905,31,13,26,42,1,0,0,0,297.8
-5,Peyton Manning Den QB,394/607,4621,34,14,24,-6,1,0,0,0,296
-6,Ben Roethlisberger Pit QB,388/597,4622,29,13,34,101,1,0,0,0,281.8
-7,Tony Romo Dal QB,322/496,4098,33,11,27,71,1,0,0,0,278
-8,Matt Ryan Atl QB,390/598,4610,27,13,28,88,1,0,0,0,275.6
-9,Ryan Tannehill Mia QB,370/581,4355,25,14,51,251,2,0,0,0,274.6
-10,Eli Manning NYG QB,394/635,4837,30,17,17,31,0,0,0,0,271.9
-11,Cam Newton Car QB,295/494,3521,22,14,102,548,4,0,0,0,269.6
-12,Philip Rivers SD QB,355/561,4452,28,16,32,72,1,0,0,0,262.7
-13,Matthew Stafford Det QB,384/616,4443,26,14,37,117,1,0,0,0,261.7
-14,Colin Kaepernick SF QB,287/463,3529,15,9,97,600,3,0,0,0,252.2
-15,Sam Bradford Phi QB P,329/548,3817,26,12,41,117,2,0,0,0,246.7
-16,Carson Palmer Ari QB P,358/564,4227,25,16,23,38,1,0,0,0,243.4
-17,Teddy Bridgewater Min QB,308/505,3680,21,13,55,301,2,0,0,0,242.4
-18,Jay Cutler Chi QB,348/559,4075,25,18,43,195,1,0,0,0,241.6
-19,Jameis Winston TB QB,328/555,4175,22,19,49,185,2,0,0,0,238.4
-20,Joe Flacco Bal QB,339/535,3886,25,13,36,77,1,0,0,0,237.5
-21,Alex Smith KC QB,328/525,3515,20,9,54,275,2,0,0,0,234.3
-22,Marcus Mariota Ten QB,287/472,3287,18,14,81,483,3,0,0,0,234.3
-23,Andy Dalton Cin QB,335/538,3774,22,19,54,172,2,0,0,0,226.4
-24,Robert Griffin Wsh QB Q,275/432,3244,17,10,71,435,3,0,0,0,225.4
-25,Tom Brady NE QB SSPD,303/460,3377,24,8,26,32,1,0,0,0,221.4
-26,Derek Carr Oak QB,359/590,4150,18,14,33,110,1,0,0,0,218.3
-27,Nick Foles StL QB,324/537,3732,20,13,35,158,1,0,0,0,217.2
-28,Blake Bortles Jac QB,307/495,3465,18,14,57,343,1,0,0,0,215.2
-29,Josh McCown Cle QB,268/461,3007,13,14,41,198,2,0,0,0,162.1
-30,Ryan Fitzpatrick NYJ QB,210/337,2403,14,11,38,157,1,0,0,0,145.9
-31,Brian Hoyer Hou QB,204/344,2503,12,10,23,34,1,0,0,0,133.7
-32,Matt Cassel Buf QB,180/302,2091,12,10,29,122,1,0,0,0,121.8
-33,Geno Smith* NYJ QB O,121/206,1452,8,7,21,107,1,0,0,0,88.5
-34,Ryan Mallett Hou QB,123/205,1490,7,6,11,34,0,0,0,0,76.4
-35,Tyrod Taylor Buf QB,85/148,946,6,5,23,117,1,0,0,0,66.4
-36,Jimmy Garoppolo NE QB,88/146,971,6,4,12,37,0,0,0,0,55.3
-37,Kirk Cousins Wsh QB,21/34,248,1,1,4,13,0,0,0,0,12.1
-38,Drew Stanton Ari QB,20/34,240,1,1,2,5,0,0,0,0,11.1
-39,Johnny Manziel Cle QB,17/30,183,1,1,7,20,0,0,0,0,11.1
-40,EJ Manuel Buf QB,16/28,184,1,1,4,11,0,0,0,0,10.1
-41,Jimmy Clausen Chi QB,20/35,233,1,1,3,9,0,0,0,0,9.1
-42,Brandon Weeden Dal QB,9/15/2015,118,1,0,0,1,0,0,0,0,8.1
-43,Derek Anderson Car QB,13/22,156,1,1,3,8,0,0,0,0,8
-44,Chase Daniel KC QB,10/16/2015,107,1,0,1,4,0,0,0,0,8
-45,Austin Davis StL QB,10/16/2015,112,1,0,0,1,0,0,0,0,8
-46,Blaine Gabbert SF QB,10/16/2015,117,1,0,3,8,0,0,0,0,8
-47,Bruce Gradkowski Pit QB,11/18/2015,127,1,1,1,2,0,0,0,0,7
-48,Mark Sanchez Phi QB,10/17/2015,119,1,1,3,8,0,0,0,0,6
-49,Matt Hasselbeck Ind QB,2/3/2015,23,0,0,0,0,0,0,0,0,0
-50,Shaun Hill Min QB,2/3/2015,20,0,0,0,0,0,0,0,0,0
-51,Matt Schaub Bal QB,2/3/2015,20,0,0,0,0,0,0,0,0,0
-52,Luke McCown NO QB,2/3/2015,22,0,0,0,1,0,0,0,0,0
-53,Dan Orlovsky Det QB,2/3/2015,22,0,0,0,0,0,0,0,0,0
-54,Kellen Clemens SD QB,2/3/2015,21,0,0,0,0,0,0,0,0,0
-55,Tarvaris Jackson Sea QB Q,1/2/2015,17,0,0,0,0,0,0,0,0,0
-56,Matt Moore Mia QB,2/3/2015,21,0,0,0,0,0,0,0,0,0
-57,Chad Henne Jac QB,2/3/2015,19,0,0,0,0,0,0,0,0,0
-58,Matt Flynn NYJ QB P,0/1,5,0,0,0,0,0,0,0,0,0
-59,Colt McCoy Wsh QB,0/0,0,0,0,0,0,0,0,0,0,0
-60,Christian Ponder Oak QB,2/3/2015,20,0,0,0,1,0,0,0,0,0
-61,T.J. Yates Atl QB,2/3/2015,20,0,0,0,0,0,0,0,0,0
-62,Scott Tolzien GB QB,2/3/2015,20,0,0,0,0,0,0,0,0,0
-63,Brock Osweiler Den QB,2/3/2015,20,0,0,2,7,0,0,0,0,0
-64,Ryan Lindley NE QB,0/1,5,0,0,0,0,0,0,0,0,0
-65,Mike Glennon TB QB,2/3/2015,22,0,0,0,0,0,0,0,0,0
-66,Ryan Nassib NYG QB,2/3/2015,20,0,0,0,0,0,0,0,0,0
-67,B.J. Daniels Sea QB,1/2/2015,17,0,0,0,0,0,0,0,0,0
-68,AJ McCarron Cin QB P,1/2/2015,16,0,0,0,0,0,0,0,0,0
-69,Zach Mettenberger Ten QB,2/3/2015,19,0,0,0,0,0,0,0,0,0
-70,Tom Savage Hou QB,0/0,0,0,0,0,0,0,0,0,0,0
-71,Bryce Petty NYJ QB,0/1,5,0,0,0,0,0,0,0,0,0
-72,Sean Mannion StL QB,0/0,0,0,0,0,0,0,0,0,0,0
-73,Garrett Grayson NO QB,0/0,0,0,0,0,0,0,0,0,0,0
-74,Brett Hundley GB QB,0/0,0,0,0,0,0,0,0,0,0,0
+1,Andrew Luck Ind QB,383/622,4503,37,17,56,265,2,0,0,0,324.3
+2,Aaron Rodgers GB QB,348/541,4324,34,8,50,255,2,0,0,0,321.1
+3,Drew Brees NO QB,405/618,4910,32,13,26,42,1,0,0,0,301.9
+4,Russell Wilson Sea QB,279/456,3469,27,9,101,623,3,0,0,0,299.8
+5,Peyton Manning Den QB,395/609,4642,34,14,24,-6,1,0,0,0,297
+6,Matt Ryan Atl QB,390/598,4612,28,12,28,88,1,0,0,0,281.6
+7,Ben Roethlisberger Pit QB,382/588,4538,29,13,34,102,1,0,0,0,278.8
+8,Tony Romo Dal QB,322/496,4097,33,11,27,71,1,0,0,0,278
+9,Ryan Tannehill Mia QB,364/571,4271,26,13,53,259,2,0,0,0,276.7
+10,Cam Newton Car QB,295/494,3518,22,14,104,559,4,0,0,0,270.6
+11,Eli Manning NYG QB,390/628,4787,30,17,17,30,0,0,0,0,269.9
+12,Philip Rivers SD QB P,356/563,4463,29,16,32,72,1,0,0,0,266.8
+13,Matthew Stafford Det QB,384/616,4442,27,14,37,117,1,0,0,0,265.7
+14,Colin Kaepernick SF QB,286/463,3537,15,8,97,603,3,0,0,0,254.2
+15,Sam Bradford Phi QB P,334/557,3888,27,12,41,116,2,0,0,0,253.7
+16,Carson Palmer Ari QB P,357/565,4241,26,16,23,38,1,0,0,0,247.5
+17,Teddy Bridgewater Min QB,308/504,3658,21,13,55,301,2,0,0,0,241.4
+18,Jay Cutler Chi QB,348/558,4065,25,18,43,197,1,0,0,0,240.6
+19,Alex Smith KC QB,328/525,3517,21,9,54,277,2,0,0,0,238.3
+20,Joe Flacco Bal QB,340/537,3906,25,13,40,85,1,0,0,0,237.5
+21,Marcus Mariota Ten QB,289/473,3280,18,14,80,483,3,0,0,0,234.3
+22,Andy Dalton Cin QB P,336/540,3791,23,19,53,171,2,0,0,0,231.4
+23,Jameis Winston TB QB P,328/556,4165,21,19,49,185,1,0,0,0,227.4
+24,Tom Brady NE QB SSPD,303/462,3393,24,8,26,32,1,0,0,0,221.4
+25,Derek Carr Oak QB,360/590,4136,19,14,33,109,1,0,0,0,220.3
+26,Blake Bortles Jac QB,313/506,3536,18,15,59,350,1,0,0,0,215.2
+27,Nick Foles StL QB,318/527,3663,19,12,35,159,1,0,0,0,212.2
+28,Robert Griffin Wsh QB Q,255/398,3013,15,10,63,385,2,0,0,0,197.2
+29,Josh McCown Cle QB,267/459,2992,13,14,42,204,2,0,0,0,162.1
+30,Tyrod Taylor Buf QB,206/353,2312,13,13,59,297,2,0,0,0,155.9
+31,Ryan Fitzpatrick NYJ QB,210/337,2399,14,11,38,159,1,0,0,0,144.9
+32,Brian Hoyer Hou QB,202/339,2463,12,10,23,34,1,0,0,0,131.7
+33,Geno Smith* NYJ QB O,121/206,1453,8,7,21,107,1,0,0,0,88.5
+34,Ryan Mallett Hou QB,121/202,1464,7,6,11,34,0,0,0,0,75.4
+35,Jimmy Garoppolo NE QB,88/147,980,6,4,12,37,0,0,0,0,56.3
+36,Kirk Cousins Wsh QB,68/113,779,4,4,4,12,0,0,0,0,38.2
+37,Matt Cassel Buf QB,54/93,636,4,3,9,26,0,0,0,0,35.3
+38,Colt McCoy Wsh QB,21/34,252,1,1,4,12,0,0,0,0,13.1
+39,Drew Stanton Ari QB,20/34,241,1,1,2,5,0,0,0,0,11.1
+40,Johnny Manziel Cle QB Q,17/31,186,1,1,7,20,0,0,0,0,11.1
+41,EJ Manuel Buf QB,16/28,184,1,1,4,11,0,0,0,0,10.1
+42,Jimmy Clausen Chi QB Q,20/35,233,1,1,3,9,0,0,0,0,9.1
+43,Michael Vick NYJ QB,10/17/2015,118,1,0,4,12,0,0,0,0,9
+44,Brandon Weeden Dal QB P,9/15/2015,118,1,0,0,1,0,0,0,0,8.1
+45,Derek Anderson Car QB,13/22,156,1,1,3,8,0,0,0,0,8
+46,Chase Daniel KC QB,10/16/2015,107,1,0,1,4,0,0,0,0,8
+47,Austin Davis StL QB,10/16/2015,110,1,0,0,1,0,0,0,0,8
+48,Blaine Gabbert SF QB,10/16/2015,118,1,0,3,8,0,0,0,0,8
+49,Mark Sanchez Phi QB,10/17/2015,121,1,1,3,8,0,0,0,0,6
+50,Matt Hasselbeck Ind QB,2/3/2015,23,0,0,0,0,0,0,0,0,0
+51,Shaun Hill Min QB,2/3/2015,20,0,0,0,0,0,0,0,0,0
+52,Matt Schaub Bal QB,2/3/2015,20,0,0,0,0,0,0,0,0,0
+53,Luke McCown NO QB,2/3/2015,22,0,0,0,1,0,0,0,0,0
+54,Dan Orlovsky Det QB,2/3/2015,22,0,0,0,0,0,0,0,0,0
+55,Kellen Clemens SD QB,2/3/2015,21,0,0,0,0,0,0,0,0,0
+56,Tarvaris Jackson Sea QB Q,1/2/2015,17,0,0,0,0,0,0,0,0,0
+57,Bruce Gradkowski* Pit QB IR,0/0,0,0,0,0,0,0,0,0,0,0
+58,Matt Moore Mia QB,2/3/2015,21,0,0,0,0,0,0,0,0,0
+59,Chad Henne Jac QB,2/3/2015,19,0,0,0,0,0,0,0,0,0
+60,Matt Flynn NYJ QB P,0/1,5,0,0,0,0,0,0,0,0,0
+61,Christian Ponder Oak QB,2/3/2015,19,0,0,0,1,0,0,0,0,0
+62,T.J. Yates Atl QB,2/3/2015,20,0,0,0,0,0,0,0,0,0
+63,Scott Tolzien GB QB P,2/3/2015,20,0,0,0,0,0,0,0,0,0
+64,Brock Osweiler Den QB,2/3/2015,20,0,0,2,7,0,0,0,0,0
+65,Ryan Lindley NE QB,0/1,5,0,0,0,0,0,0,0,0,0
+66,Mike Glennon TB QB,2/3/2015,22,0,0,0,0,0,0,0,0,0
+67,Ryan Nassib NYG QB,2/3/2015,20,0,0,0,0,0,0,0,0,0
+68,B.J. Daniels Sea QB,1/2/2015,17,0,0,0,0,0,0,0,0,0
+69,AJ McCarron Cin QB,1/2/2015,16,0,0,0,0,0,0,0,0,0
+70,Zach Mettenberger Ten QB,2/3/2015,19,0,0,0,0,0,0,0,0,0
+71,Tom Savage Hou QB,0/0,0,0,0,0,0,0,0,0,0,0
+72,Bryce Petty NYJ QB,0/1,5,0,0,0,0,0,0,0,0,0
+73,Sean Mannion StL QB,0/0,0,0,0,0,0,0,0,0,0,0
+74,Garrett Grayson NO QB,0/0,0,0,0,0,0,0,0,0,0,0
+75,Brett Hundley GB QB,0/0,0,0,0,0,0,0,0,0,0,0

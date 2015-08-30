@@ -1,0 +1,544 @@
+Player,Position,Score,Value over Avg,Value over Next
+Rob Gronkowski NE TE,TE,121.65,49.75,16.57
+Antonio Brown Pit WR,WR,153.86,48.56,1.93
+Eddie Lacy GB RB,RB,146.27,48.22,4.33
+Andrew Luck Ind QB,QB,283.18,46.72,16.88
+Demaryius Thomas Den WR,WR,151.93,46.64,1.71
+Dez Bryant Dal WR P,WR,150.22,44.93,5.54
+Jamaal Charles KC RB,RB,141.94,43.89,0.89
+Adrian Peterson Min RB P,RB,141.05,43.00,6.31
+Calvin Johnson Det WR,WR,144.68,39.38,4.08
+Marshawn Lynch Sea RB,RB,134.73,36.69,1.70
+Julio Jones Atl WR,WR,140.60,35.30,2.64
+C.J. Anderson Den RB,RB,133.04,34.99,2.24
+Jimmy Graham Sea TE,TE,105.08,33.18,13.78
+Le'Veon Bell Pit RB SSPD,RB,130.80,32.75,3.28
+Odell Beckham Jr. NYG WR P,WR,137.96,32.66,0.07
+A.J. Green Cin WR,WR,137.89,32.59,9.37
+Aaron Rodgers GB QB,QB,266.30,29.85,7.87
+Jeremy Hill Cin RB,RB,127.51,29.47,5.52
+Matt Forte Chi RB,RB,121.99,23.94,0.07
+DeMarco Murray Phi RB,RB,121.92,23.87,3.89
+Alshon Jeffery Chi WR Q,WR,128.52,23.23,0.59
+Randall Cobb GB WR Q,WR,127.93,22.63,1.06
+Drew Brees NO QB,QB,258.43,21.98,0.62
+T.Y. Hilton Ind WR,WR,126.87,21.58,5.21
+Peyton Manning Den QB,QB,257.81,21.36,14.55
+Mark Ingram NO RB,RB,118.03,19.98,1.70
+Travis Kelce KC TE,TE,91.31,19.40,4.15
+LeSean McCoy Buf RB Q,RB,116.33,18.28,0.12
+Carlos Hyde SF RB,RB,116.21,18.16,6.86
+Mike Evans TB WR Q,WR,121.66,16.37,7.72
+Greg Olsen Car TE,TE,87.16,15.25,6.80
+Alfred Morris Wsh RB,RB,109.35,11.30,0.02
+Justin Forsett Bal RB,RB,109.33,11.28,0.61
+Lamar Miller Mia RB,RB,108.73,10.68,2.74
+Emmanuel Sanders Den WR P,WR,113.94,8.65,3.36
+Julius Thomas Jac TE Q,TE,80.36,8.45,0.14
+Jason Witten Dal TE,TE,80.22,8.32,1.51
+Frank Gore Ind RB,RB,105.99,7.94,0.25
+Arian Foster* Hou RB O,RB,105.73,7.69,2.07
+Tony Romo Dal QB,QB,243.27,6.81,2.39
+Martellus Bennett Chi TE,TE,78.71,6.80,5.68
+Todd Gurley StL RB Q,RB,103.66,5.62,4.62
+Brandin Cooks NO WR,WR,110.58,5.29,2.38
+Eli Manning NYG QB,QB,240.88,4.42,1.35
+Ben Roethlisberger Pit QB,QB,239.53,3.08,1.88
+Julian Edelman NE WR P,WR,108.20,2.90,0.65
+DeAndre Hopkins Hou WR,WR,107.55,2.26,0.48
+Andre Johnson Ind WR,WR,107.07,1.78,1.25
+Russell Wilson Sea QB,QB,237.65,1.19,0.83
+Zach Ertz Phi TE Q,TE,73.03,1.13,1.05
+Joseph Randle Dal RB,RB,99.05,1.00,1.00
+Jordan Matthews Phi WR,WR,105.82,0.53,0.20
+Matt Ryan Atl QB,QB,236.82,0.37,0.37
+Davante Adams GB WR,WR,105.62,0.33,0.06
+Keenan Allen SD WR,WR,105.56,0.27,0.27
+Delanie Walker Ten TE,TE,71.98,0.08,0.08
+Dwayne Allen Ind TE,TE,71.90,0.00,0.72
+Brandon Marshall NYJ WR,WR,105.29,0.00,3.56
+Latavius Murray Oak RB,RB,98.05,0.00,1.27
+Philip Rivers SD QB P,QB,236.46,0.00,3.32
+Jordan Cameron Mia TE,TE,71.18,-0.72,2.31
+Joique Bell* Det RB O,RB,96.78,-1.27,1.76
+Giovani Bernard Cin RB,RB,95.02,-3.02,0.90
+Larry Donnell NYG TE P,TE,68.87,-3.03,2.11
+Ryan Tannehill Mia QB,QB,233.14,-3.32,3.40
+Sammy Watkins Buf WR P,WR,101.74,-3.56,1.45
+Jonathan Stewart Car RB,RB,94.12,-3.92,0.06
+T.J. Yeldon Jac RB P,RB,94.06,-3.98,0.86
+Melvin Gordon SD RB,RB,93.21,-4.84,0.81
+Golden Tate Det WR,WR,100.29,-5.00,1.72
+Owen Daniels Den TE,TE,66.76,-5.14,2.57
+Andre Ellington Ari RB,RB,92.40,-5.65,1.21
+Allen Robinson Jac WR,WR,98.57,-6.72,0.79
+Matthew Stafford Det QB,QB,229.73,-6.72,7.42
+C.J. Spiller NO RB Q,RB,91.19,-6.86,0.05
+Tevin Coleman Atl RB P,RB,91.13,-6.91,6.22
+Amari Cooper Oak WR,WR,97.78,-7.51,1.66
+Heath Miller Pit TE,TE,64.19,-7.71,0.07
+Tyler Eifert Cin TE,TE,64.13,-7.78,0.53
+Antonio Gates SD TE SSPD,TE,63.59,-8.31,0.65
+Eric Ebron Det TE P,TE,62.94,-8.96,0.13
+Jordan Reed Wsh TE,TE,62.81,-9.10,0.26
+Nelson Agholor Phi WR,WR,96.13,-9.17,0.06
+Vincent Jackson TB WR,WR,96.07,-9.23,0.26
+Austin Seferian-Jenkins TB TE,TE,62.54,-9.36,0.40
+Jeremy Maclin KC WR,WR,95.80,-9.49,1.05
+Kyle Rudolph Min TE,TE,62.15,-9.76,0.53
+Richard Rodgers GB TE,TE,61.61,-10.29,0.59
+DeSean Jackson Wsh WR P,WR,94.75,-10.54,1.26
+Coby Fleener Ind TE P,TE,61.02,-10.88,1.97
+Jarvis Landry Mia WR,WR,93.49,-11.80,0.80
+Michael Floyd Ari WR Q,WR,92.69,-12.60,0.85
+Charles Clay Buf TE,TE,59.05,-12.86,4.82
+Devonta Freeman Atl RB P,RB,84.91,-13.13,0.97
+Eric Decker NYJ WR,WR,91.84,-13.45,1.06
+Chris Ivory NYJ RB,RB,83.95,-14.10,2.84
+Cam Newton Car QB,QB,222.31,-14.15,0.47
+Larry Fitzgerald Ari WR,WR,90.78,-14.51,1.78
+Sam Bradford Phi QB P,QB,221.84,-14.62,4.29
+Mike Wallace Min WR,WR,89.00,-16.29,0.67
+LeGarrette Blount NE RB SSPD,RB,81.10,-16.94,0.40
+Devin Funchess Car WR P,WR,88.34,-16.96,0.19
+Charles Johnson Min WR,WR,88.15,-17.15,0.47
+Ryan Mathews Phi RB,RB,80.70,-17.34,0.97
+Breshad Perriman Bal WR Q,WR,87.68,-17.62,0.26
+Benjamin Watson NO TE,TE,54.23,-17.68,0.07
+Maxx Williams Bal TE Q,TE,54.16,-17.74,0.32
+John Brown Ari WR,WR,87.42,-17.87,1.05
+Jared Cook StL TE,TE,53.84,-18.07,0.07
+Vernon Davis SF TE,TE,53.77,-18.13,3.50
+Rashad Jennings NYG RB,RB,79.73,-18.32,0.80
+Carson Palmer Ari QB P,QB,217.55,-18.91,2.04
+Torrey Smith SF WR P,WR,86.37,-18.92,0.73
+Ameer Abdullah Det RB,RB,78.93,-19.12,5.52
+Victor Cruz NYG WR P,WR,85.64,-19.66,3.30
+Jay Cutler Chi QB,QB,215.51,-20.95,8.45
+Jace Amaro NYJ TE Q,TE,50.27,-21.63,0.13
+Jacob Tamme Atl TE,TE,50.14,-21.76,3.83
+Roddy White Atl WR Q,WR,82.34,-22.96,0.98
+Kendall Wright Ten WR,WR,81.35,-23.94,0.20
+DeVante Parker Mia WR Q,WR,81.15,-24.14,1.65
+Isaiah Crowell Cle RB,RB,73.41,-24.64,0.07
+Shane Vereen NYG RB,RB,73.34,-24.71,4.19
+Josh Hill NO TE,TE,46.31,-25.60,0.26
+Marques Colston NO WR,WR,79.50,-25.79,1.39
+Ladarius Green SD TE,TE,46.05,-25.85,6.99
+Malcom Floyd SD WR,WR,78.11,-27.18,0.53
+Cody Latimer Den WR,WR,77.59,-27.71,0.20
+Brandon LaFell* NE WR O,WR,77.39,-27.91,1.84
+Bishop Sankey Ten RB,RB,69.15,-28.90,1.08
+Joe Flacco Bal QB,QB,207.05,-29.41,1.44
+Eddie Royal Chi WR P,WR,75.55,-29.75,0.73
+Duke Johnson Cle RB Q,RB,68.07,-29.98,0.76
+Pierre Garcon Wsh WR,WR,74.82,-30.47,0.67
+Steve Smith Sr. Bal WR,WR,74.82,-30.47,0.00
+Doug Martin TB RB,RB,67.31,-30.74,4.90
+Andy Dalton Cin QB P,QB,205.62,-30.84,4.09
+Brandon Coleman NO WR,WR,74.15,-31.14,0.19
+Michael Crabtree Oak WR,WR,73.96,-31.33,0.39
+Anquan Boldin SF WR,WR,73.57,-31.72,1.33
+Mychal Rivera Oak TE,TE,39.06,-32.84,2.51
+Terrance Williams Dal WR,WR,72.24,-33.05,0.32
+Rueben Randle NYG WR P,WR,71.92,-33.38,0.53
+Doug Baldwin Sea WR,WR,71.39,-33.91,0.67
+Martavis Bryant Pit WR SSPD,WR,70.72,-34.57,0.92
+Jameis Winston TB QB P,QB,201.53,-34.93,2.04
+Rob Housler Cle TE,TE,36.55,-35.35,4.95
+Brian Quick StL WR P,WR,69.80,-35.49,1.19
+Danny Woodhead SD RB,RB,62.41,-35.64,2.97
+Stevie Johnson SD WR,WR,68.62,-36.68,1.84
+Teddy Bridgewater Min QB,QB,199.49,-36.97,4.48
+Nate Washington Hou WR,WR,66.77,-38.52,1.32
+Lorenzo Taliaferro Bal RB D,RB,59.44,-38.61,2.10
+Kenny Stills Mia WR,WR,65.45,-39.84,0.14
+Kenny Britt StL WR,WR,65.32,-39.98,0.98
+Clive Walford Oak TE Q,TE,31.60,-40.30,0.40
+Gavin Escobar Dal TE P,TE,31.20,-40.70,0.26
+Charles Sims TB RB,RB,57.34,-40.71,2.39
+Garrett Graham Hou TE,TE,30.94,-40.96,0.53
+Markus Wheaton Pit WR,WR,64.33,-40.96,0.14
+Marvin Jones Cin WR,WR,64.19,-41.10,0.92
+Alex Smith KC QB,QB,195.01,-41.45,3.69
+Lance Kendricks StL TE,TE,30.41,-41.49,0.99
+Ty Montgomery GB WR,WR,63.27,-42.02,0.33
+Tyler Lockett Sea WR,WR,62.94,-42.35,0.99
+Dennis Pitta* Bal TE O,TE,29.42,-42.48,0.46
+Brent Celek Phi TE,TE,28.96,-42.94,0.46
+James White NE RB,RB,54.95,-43.10,1.56
+Leonard Hankerson Atl WR,WR,61.95,-43.34,2.11
+Jermaine Gresham Ari TE P,TE,28.50,-43.40,0.66
+Dion Sims Mia TE,TE,27.84,-44.06,0.92
+Roy Helu Oak RB,RB,53.38,-44.66,2.27
+Crockett Gillmore Bal TE,TE,26.92,-44.99,0.13
+Darren Fells Ari TE,TE,26.78,-45.12,0.20
+Marcus Mariota Ten QB,QB,191.32,-45.14,0.77
+Marcedes Lewis Jac TE,TE,26.59,-45.32,0.79
+Jermaine Kearse Sea WR,WR,59.84,-45.46,0.52
+Colin Kaepernick SF QB,QB,190.55,-45.91,0.79
+Dwayne Bowe Cle WR P,WR,59.32,-45.98,0.26
+Virgil Green Den TE,TE,25.79,-46.11,1.25
+Allen Hurns Jac WR P,WR,59.05,-46.24,2.45
+Derek Carr Oak QB,QB,189.76,-46.70,1.66
+Knile Davis KC RB,RB,51.11,-46.94,1.14
+Andrew Quarless GB TE,TE,24.54,-47.36,1.25
+Andre Williams NYG RB,RB,49.98,-48.07,2.14
+Tom Brady NE QB SSPD,QB,188.11,-48.35,7.70
+Scott Chandler NE TE,TE,23.29,-48.62,2.51
+Phillip Dorsett Ind WR P,WR,56.60,-48.69,0.32
+Corey Brown Car WR,WR,56.28,-49.01,1.98
+Darren McFadden Dal RB,RB,47.83,-50.21,0.50
+Alfred Blue Hou RB,RB,47.33,-50.72,0.15
+Denard Robinson Jac RB,RB,47.18,-50.87,0.63
+Percy Harvin Buf WR P,WR,54.30,-50.99,1.91
+Jack Doyle Ind TE,TE,20.78,-51.13,2.30
+Reggie Bush SF RB,RB,46.55,-51.50,0.32
+Lance Dunbar Dal RB,RB,46.23,-51.82,0.65
+Ronnie Hillman Den RB,RB,45.58,-52.47,0.57
+Reggie Wayne NE WR,WR,52.39,-52.91,0.79
+Jerick McKinnon Min RB,RB,45.01,-53.04,0.08
+Jonas Gray NE RB,RB,44.93,-53.12,1.39
+David Johnson SD TE,TE,18.47,-53.43,0.73
+Cole Beasley Dal WR,WR,51.59,-53.70,0.53
+Ed Dickson Car TE,TE,17.75,-54.16,0.53
+Kamar Aiken Bal WR,WR,51.07,-54.23,0.92
+David Johnson Ari RB P,RB,43.54,-54.51,1.05
+Daniel Fells NYG TE,TE,17.22,-54.68,0.86
+Robert Woods Buf WR P,WR,50.14,-55.15,0.46
+Derek Carrier Wsh TE,TE,16.36,-55.54,0.26
+Matt Jones Wsh RB,RB,42.49,-55.56,1.20
+Devin Smith NYJ WR Q,WR,49.68,-55.61,1.98
+C.J. Fiedorowicz Hou TE,TE,16.10,-55.81,0.92
+Blake Bortles Jac QB,QB,180.40,-56.06,0.47
+Nick Foles StL QB,QB,179.94,-56.52,17.21
+MyCole Pruitt Min TE Q,TE,15.17,-56.73,0.40
+Darren Sproles Phi RB,RB,41.29,-56.76,0.47
+Levine Toilolo Atl TE,TE,14.78,-57.13,0.07
+Troy Niklas Ari TE Q,TE,14.71,-57.19,0.46
+Tre Mason StL RB P,RB,40.81,-57.23,0.19
+Fred Jackson Buf RB,RB,40.63,-57.42,2.29
+Greg Jennings Mia WR P,WR,47.70,-57.59,0.40
+Luke Willson Sea TE,TE,14.25,-57.65,0.13
+Joseph Fauria Det TE P,TE,14.12,-57.79,0.07
+Brandon Myers TB TE,TE,14.05,-57.85,0.13
+Jeff Cumberland NYJ TE,TE,13.92,-57.98,0.33
+James O'Shaughnessy KC TE,TE,13.92,-57.98,0.00
+Donte Moncrief Ind WR,WR,47.30,-57.99,0.13
+Cecil Shorts III Hou WR,WR,47.17,-58.12,0.20
+James Casey Den TE,TE,13.59,-58.31,0.26
+Marqise Lee Jac WR Q,WR,46.97,-58.32,0.53
+Ryan Griffin Hou TE,TE,13.33,-58.58,0.73
+Dorial Green-Beckham Ten WR P,WR,46.45,-58.85,0.65
+Gary Barnidge Cle TE,TE,12.60,-59.30,0.26
+Andrew Hawkins Cle WR,WR,45.79,-59.50,2.32
+MarQueis Gray Buf TE,TE,12.34,-59.57,0.46
+Dexter McCluster Ten WR RB,RB,38.33,-59.72,1.12
+Tony Moeaki Atl TE,TE,11.87,-60.03,0.20
+Tyler Kroft Cin TE,TE,11.68,-60.23,0.20
+Dante Rosario Chi TE,TE,11.68,-60.23,0.00
+Jim Dray Cle TE,TE,11.48,-60.43,0.53
+Terrance West Cle RB,RB,37.21,-60.84,0.33
+Anthony Fasano Ten TE,TE,10.95,-60.95,0.92
+Craig Stevens Ten TE,TE,10.95,-60.95,0.00
+Logan Paulsen* Wsh TE IR,TE,10.95,-60.95,0.00
+David Cobb Ten RB Q,RB,36.89,-61.16,1.39
+Kevin White* Chi WR O,WR,43.48,-61.82,0.85
+Brandon Pettigrew Det TE,TE,10.03,-61.88,4.68
+Mike Tolbert Car RB,RB,35.49,-62.56,0.05
+DeAngelo Williams Pit RB,RB,35.44,-62.61,0.31
+Brian Hartline Cle WR,WR,42.62,-62.67,2.31
+Bilal Powell NYJ RB Q,RB,35.13,-62.92,1.48
+Daniel Herron Ind RB,RB,33.65,-64.40,0.74
+Andre Roberts Wsh WR,WR,40.31,-64.98,1.52
+Benjamin Cunningham StL RB,RB,32.91,-65.14,1.23
+Montee Ball Den RB,RB,31.68,-66.37,1.79
+Harry Douglas Ten WR,WR,38.80,-66.50,0.79
+Lee Smith Oak TE,TE,5.35,-66.56,0.53
+Vance McDonald SF TE P,TE,4.82,-67.09,0.13
+Blake Bell SF TE,TE,4.69,-67.22,0.46
+Rod Streater Oak WR,WR,38.00,-67.29,0.59
+Cory Harkey StL TE,TE,4.22,-67.68,0.92
+Taylor Gabriel Cle WR,WR,37.41,-67.88,0.20
+Hakeem Nicks Ten WR P,WR,37.21,-68.08,0.26
+De'Anthony Thomas KC RB WR P,RB,29.90,-68.15,0.28
+Jerricho Cotchery Car WR Q,WR,36.95,-68.35,0.53
+James Starks GB RB,RB,29.62,-68.43,1.92
+Chris Gragg Buf TE,TE,3.30,-68.60,0.20
+Ryan Hewitt Cin TE,TE,3.10,-68.80,0.07
+Matt Spaeth Pit TE,TE,3.04,-68.87,0.07
+Jaelen Strong Hou WR,WR,36.42,-68.87,1.25
+Michael Hoomanawanui NE TE,TE,2.97,-68.93,0.07
+Gerald Christian Ari TE,TE,2.97,-68.93,0.00
+Jesse James Pit TE,TE,2.97,-68.93,0.00
+Jeff Heuerman* Den TE O,TE,2.90,-69.00,0.13
+John Phillips SD TE,TE,2.77,-69.13,0.13
+Luke Stocker TB TE,TE,2.64,-69.26,0.07
+Zach Sudfeld* NYJ TE IR,TE,2.64,-69.26,0.00
+Kellen Davis NYJ TE,TE,2.64,-69.26,0.00
+James Hanna Dal TE Q,TE,2.57,-69.33,0.59
+Rhett Ellison Min TE,TE,2.57,-69.33,0.00
+Clay Harbor Jac TE P,TE,2.57,-69.33,0.00
+Malcolm Johnson Cle TE,TE,1.98,-69.92,0.53
+Ted Ginn Jr. Car WR,WR,35.17,-70.13,0.26
+Theo Riddick Det RB,RB,27.70,-70.34,0.17
+Jarius Wright Min WR,WR,34.90,-70.39,0.46
+Adrien Robinson NYG TE,TE,1.45,-70.45,0.07
+Arthur Lynch NYJ TE,TE,1.45,-70.45,0.00
+Josh Robinson Ind RB Q,RB,27.54,-70.51,1.26
+Bear Pascoe Chi TE,TE,1.39,-70.52,0.07
+Kennard Backman GB TE,TE,1.32,-70.58,0.13
+Trey Burton Phi TE,TE,1.32,-70.58,0.00
+Chase Ford Min TE,TE,1.32,-70.58,0.00
+Nick Boyle Bal TE,TE,1.32,-70.58,0.00
+Timothy Wright TB TE,TE,1.32,-70.58,0.00
+C.J. Uzomah Cin TE,TE,1.32,-70.58,0.00
+Brandon Williams Car TE,TE,1.19,-70.72,0.13
+Taylor Thompson Ten TE P,TE,1.19,-70.72,0.00
+Anthony McCoy Sea TE,TE,1.06,-70.85,0.40
+Nick O'Leary Buf TE,TE,1.06,-70.85,0.00
+Chris Conley KC WR,WR,34.44,-70.85,0.46
+Richard Gordon KC TE,TE,0.66,-71.24,0.13
+Demetrius Harris* KC TE O,TE,0.66,-71.24,0.00
+Albert Wilson KC WR P,WR,33.98,-71.32,0.33
+Justin Perillo GB TE,TE,0.53,-71.38,0.53
+Riley Cooper Phi WR P,WR,33.65,-71.65,0.92
+Andre Holmes Oak WR D,WR,33.65,-71.65,0.00
+Cameron Artis-Payne Car RB,RB,26.28,-71.77,0.63
+Kevin Brock* NO TE IR,TE,0.00,-71.90,0.00
+Mike Caussin* Wsh TE IR,TE,0.00,-71.90,0.00
+Gabe Miller Wsh TE,TE,0.00,-71.90,0.00
+Kyle Miller SD TE,TE,0.00,-71.90,0.00
+David Paulson SD TE,TE,0.00,-71.90,0.00
+Matt Veldman Wsh TE,TE,0.00,-71.90,0.00
+Jake Byrne SD TE,TE,0.00,-71.90,0.00
+Niles Paul* Wsh TE IR,TE,0.00,-71.90,0.00
+Khiry Robinson NO RB P,RB,25.64,-72.41,0.61
+Nick Toon NO WR Q,WR,32.72,-72.57,1.58
+Toby Gerhart Jac RB P,RB,25.03,-73.01,2.31
+Robert Griffin Wsh QB Q,QB,162.73,-73.73,15.77
+Danny Amendola NE WR,WR,31.14,-74.15,0.40
+Louis Murphy TB WR,WR,31.14,-74.15,0.00
+Mohamed Sanu Cin WR,WR,30.74,-74.55,2.18
+Matt Asiata Min RB,RB,22.72,-75.32,0.10
+Chris Johnson Ari RB P,RB,22.62,-75.43,0.53
+Robert Turbin Sea RB,RB,22.09,-75.96,1.59
+Jeff Janis GB WR,WR,28.57,-76.73,0.13
+Marquess Wilson Chi WR Q,WR,28.43,-76.86,0.19
+Tavon Austin StL WR,WR,28.24,-77.05,1.52
+Damien Williams Mia RB,RB,20.50,-77.54,1.22
+Marlon Brown Bal WR,WR,26.72,-78.58,0.46
+Branden Oliver SD RB,RB,19.29,-78.76,0.21
+Javorius Allen Bal RB,RB,19.08,-78.97,0.01
+Jonathan Grimes Hou RB,RB,19.07,-78.98,0.05
+Dri Archer Pit RB,RB,19.01,-79.03,0.78
+De'Anthony Thomas KC RB WR P,WR,26.26,-79.04,0.32
+Dexter McCluster Ten WR RB,WR,25.93,-79.36,0.73
+Jacquizz Rodgers Chi RB,RB,18.23,-79.82,0.81
+Stedman Bailey StL WR,WR,25.21,-80.09,0.20
+Chris Matthews Sea WR P,WR,25.00,-80.29,0.46
+Kyle Juszczyk Bal RB,RB,17.42,-80.63,0.14
+Quinton Patton SF WR,WR,24.55,-80.75,0.20
+Marcel Reece Oak RB,RB,17.27,-80.77,0.49
+Jamison Crowder Wsh WR,WR,24.35,-80.95,2.24
+Jay Ajayi Mia RB P,RB,16.78,-81.27,0.23
+Jeremy Langford Chi RB,RB,16.55,-81.50,0.71
+Bobby Rainey TB RB,RB,15.83,-82.21,1.33
+Cordarrelle Patterson Min WR,WR,22.10,-83.19,1.06
+Erik Lorig NO RB,RB,14.51,-83.54,0.33
+Stevan Ridley* NYJ RB O,RB,14.18,-83.87,0.12
+Brandon Bolden NE RB,RB,14.06,-83.99,0.76
+Justin Hardy Atl WR,WR,21.05,-84.25,0.40
+Jerome Simpson SF WR SSPD,WR,20.65,-84.64,1.65
+Ryan Williams* Dal RB IR,RB,13.30,-84.74,0.26
+Christine Michael Sea RB,RB,13.04,-85.00,0.43
+Zac Stacy NYJ RB,RB,12.61,-85.44,0.02
+Antone Smith Atl RB P,RB,12.59,-85.46,0.15
+Robert Hughes Ari RB,RB,12.44,-85.61,1.14
+Corey Fuller Det WR,WR,19.00,-86.29,0.53
+Karlos Williams Buf RB Q,RB,11.30,-86.75,1.27
+Rashad Greene Jac WR,WR,18.47,-86.82,0.20
+Kenny Bell TB WR Q,WR,18.28,-87.02,0.40
+Sammie Coates Pit WR,WR,17.88,-87.41,0.07
+Justin Hunter Ten WR,WR,17.81,-87.48,0.26
+Josh Huff Phi WR,WR,17.55,-87.74,0.40
+John Kuhn GB RB,RB,10.03,-88.02,0.10
+Juwan Thompson Den RB,RB,9.93,-88.11,0.16
+Jaron Brown Ari WR,WR,17.15,-88.14,1.65
+Charcandrick West KC RB,RB,9.78,-88.27,0.60
+Cyrus Gray KC RB P,RB,9.18,-88.87,1.87
+Josh McCown Cle QB,QB,146.96,-89.50,13.28
+Devin Hester Atl WR,WR,15.50,-89.79,1.65
+Bruce Miller SF RB,RB,7.31,-90.74,0.45
+Rex Burkhead Cin RB,RB,6.86,-91.19,0.61
+Seantavius Jones NO WR,WR,13.85,-91.44,0.07
+Jeremy Kerley NYJ WR Q,WR,13.79,-91.51,1.06
+Joseph Morgan NO WR,WR,13.79,-91.51,0.00
+Chris Thompson Wsh RB,RB,6.25,-91.80,0.73
+Darrel Young Wsh RB,RB,5.51,-92.53,0.68
+Miles Austin Phi WR,WR,12.73,-92.56,0.33
+Corey Washington NYG WR Q,WR,12.40,-92.89,0.26
+Michael Campanaro Bal WR Q,WR,12.14,-93.16,0.07
+Trent Richardson Oak RB,RB,4.83,-93.22,0.17
+Devin Street Dal WR P,WR,12.07,-93.22,0.20
+Anthony Sherman KC RB,RB,4.66,-93.39,0.26
+Dontrelle Inman SD WR Q,WR,11.87,-93.42,4.94
+Fozzy Whittaker Car RB,RB,4.41,-93.64,0.02
+Ka'Deem Carey Chi RB,RB,4.39,-93.66,0.24
+LaMichael James Mia RB P,RB,4.15,-93.90,0.15
+Will Johnson Pit RB,RB,4.00,-94.05,0.02
+Jorvorskie Lane TB RB,RB,3.98,-94.07,0.02
+Collin Mooney Atl RB,RB,3.96,-94.09,0.07
+Patrick DiMarco Atl RB,RB,3.89,-94.15,0.33
+Chris Polk Hou RB,RB,3.57,-94.48,0.26
+Jerome Felton Buf RB,RB,3.31,-94.74,0.19
+Jalston Fowler Ten RB,RB,3.11,-94.94,0.16
+Kendall Hunter SF RB,RB,2.95,-95.10,0.29
+James Develin* NE RB O,RB,2.66,-95.39,0.26
+Stepfan Taylor Ari RB,RB,2.40,-95.65,0.09
+Mike Davis SF RB,RB,2.31,-95.74,0.13
+Josh Harris Pit RB,RB,2.18,-95.86,0.22
+Edwin Baker NO RB,RB,1.96,-96.09,0.11
+Marcus Murphy* NO RB O,RB,1.96,-96.09,0.00
+Vick Ballard Ind RB Q,RB,1.85,-96.19,0.01
+Derrick Coleman Sea RB,RB,1.85,-96.20,0.05
+Antonio Andrews Ten RB,RB,1.80,-96.25,0.01
+Kerwynn Williams Ari RB,RB,1.79,-96.26,0.08
+Donald Brown SD RB,RB,1.79,-96.26,0.00
+Michael Burton Det RB,RB,1.71,-96.34,0.01
+Travaris Cadet NE RB P,RB,1.69,-96.35,0.09
+Tommy Bohanon NYJ RB,RB,1.60,-96.45,0.08
+Orson Charles NO RB SSPD,RB,1.52,-96.53,0.04
+Gus Johnson Dal RB Q,RB,1.48,-96.57,0.07
+Kenny Hilliard Hou RB,RB,1.41,-96.64,0.01
+Jay Prosch Hou RB,RB,1.40,-96.65,0.31
+Isaiah Pead StL RB,RB,1.09,-96.96,0.37
+Darrin Reaves KC RB,RB,0.72,-97.33,0.04
+Boobie Dixon Buf RB P,RB,0.72,-97.33,0.00
+Shaun Draughn Cle RB P,RB,0.72,-97.33,0.00
+Jeremy Stewart Den RB,RB,0.72,-97.33,0.00
+Thomas Rawls Sea RB,RB,0.72,-97.33,0.00
+Jordan Todman Car RB,RB,0.68,-97.37,0.04
+Fitzgerald Toussaint Bal RB,RB,0.68,-97.37,0.00
+John Crockett GB RB,RB,0.64,-97.41,0.08
+Mike James TB RB,RB,0.56,-97.49,0.04
+Storm Johnson Jac RB,RB,0.56,-97.49,0.00
+Henry Hynoski NYG RB,RB,0.52,-97.53,0.16
+Matthew Tucker* Phi RB IR,RB,0.36,-97.69,0.04
+Cedric Peerman Cin RB,RB,0.36,-97.69,0.00
+Bryce Brown Buf RB P,RB,0.36,-97.69,0.00
+Kenjon Barner Phi RB,RB,0.36,-97.69,0.00
+Silas Redd* Wsh RB IR,RB,0.32,-97.73,0.04
+Senorise Perry Chi RB,RB,0.28,-97.77,0.28
+Ahmad Bradshaw Ind RB SSPD,RB,0.00,-98.05,0.00
+Pierre Thomas NO RB,RB,0.00,-98.05,0.00
+Felix Jones Pit RB,RB,0.00,-98.05,0.00
+LaRod Stephens-Howling Pit RB,RB,0.00,-98.05,0.00
+Isaac Redman Pit RB,RB,0.00,-98.05,0.00
+Ben Tate Pit RB,RB,0.00,-98.05,0.00
+Bernard Pierce Jac RB,RB,0.00,-98.05,0.00
+Jawan Jamison Pit RB,RB,0.00,-98.05,0.00
+Miguel Maysonet Pit RB,RB,0.00,-98.05,0.00
+Tyler Gaffney* NE RB IR,RB,0.00,-98.05,0.00
+Lache Seastrunk Dal RB,RB,0.00,-98.05,0.00
+LaDarius Perkins Pit RB,RB,0.00,-98.05,0.00
+Bruce Ellington SF WR,WR,6.93,-98.36,0.40
+Travis Benjamin Cle WR,WR,6.53,-98.76,1.12
+Chris Hogan Buf WR Q,WR,5.41,-99.88,0.20
+Jason Avant KC WR,WR,5.21,-100.08,0.53
+Stefon Diggs Min WR,WR,5.21,-100.08,0.00
+Rishard Matthews Mia WR,WR,4.69,-100.61,0.73
+Josh Morgan NO WR,WR,3.96,-101.33,0.26
+Jarrett Boykin Car WR,WR,3.70,-101.60,0.07
+Paul Richardson* Sea WR O,WR,3.63,-101.66,0.07
+Robert Herron TB WR,WR,3.56,-101.73,0.26
+Jared Abbrederis GB WR Q,WR,3.30,-101.99,0.07
+Andre Caldwell Den WR,WR,3.23,-102.06,0.07
+Jacoby Jones SD WR,WR,3.17,-102.13,0.13
+Terrelle Pryor Cle WR Q,WR,3.17,-102.13,0.00
+James Jones NYG WR,WR,3.17,-102.13,0.00
+Darrius Heyward-Bey Pit WR,WR,3.17,-102.13,0.00
+Ricardo Lockette Sea WR,WR,3.04,-102.26,0.07
+Joshua Bellamy Chi WR,WR,3.04,-102.26,0.00
+Lance Moore Det WR,WR,2.97,-102.32,0.07
+Kenbrell Thompkins Oak WR,WR,2.90,-102.39,0.07
+Ace Sanders Jac WR SSPD,WR,2.84,-102.46,0.07
+Ryan Grant Wsh WR,WR,2.84,-102.46,0.00
+JJ Nelson Ari WR,WR,2.84,-102.46,0.00
+Damaris Johnson Hou WR,WR,2.77,-102.52,0.13
+Neal Sterling Jac WR,WR,2.64,-102.65,0.07
+Keith Mumphery Hou WR,WR,2.64,-102.65,0.00
+Chris Givens StL WR,WR,2.57,-102.72,0.92
+Tyrod Taylor Buf QB,QB,133.68,-102.78,5.35
+Dwayne Harris NYG WR,WR,1.65,-103.64,0.07
+Eric Weems Atl WR,WR,1.65,-103.64,0.00
+Chris Harper* NYG WR IR,WR,1.65,-103.64,0.00
+Myles White GB WR,WR,1.65,-103.64,0.00
+Aaron Dobson NE WR,WR,1.58,-103.71,0.07
+Duron Carter Ind WR,WR,1.52,-103.78,0.07
+Jeremy Ross Det WR,WR,1.45,-103.84,0.07
+Ifeanyi Momah Ari WR,WR,1.45,-103.84,0.00
+Alan Bonner Hou WR,WR,1.39,-103.91,0.13
+Seyi Ajirotutu Phi WR,WR,1.39,-103.91,0.00
+Darren Waller Bal WR,WR,1.39,-103.91,0.00
+Gerell Robinson Mia WR,WR,1.39,-103.91,0.00
+Tre McBride Ten WR,WR,1.25,-104.04,0.07
+Brenton Bersin Car WR,WR,1.25,-104.04,0.00
+Brandon Tate Cin WR,WR,1.19,-104.11,0.13
+James Wright* Cin WR IR,WR,1.19,-104.11,0.00
+Denarius Moore Cin WR,WR,1.19,-104.11,0.00
+Marcus Harris* NYG WR IR,WR,1.19,-104.11,0.00
+Vince Mayle Cle WR P,WR,1.06,-104.24,0.46
+Kevin Norwood Sea WR,WR,0.59,-104.70,0.07
+Marc Mariani Chi WR,WR,0.53,-104.77,0.26
+DeVier Posey NYJ WR,WR,0.26,-105.03,0.26
+Jordy Nelson* GB WR O,WR,0.00,-105.29,0.00
+Brandon Gibson* NE WR IR,WR,0.00,-105.29,0.00
+Justin Blackmon Jac WR SSPD,WR,0.00,-105.29,0.00
+Marquise Goodwin Buf WR Q,WR,0.00,-105.29,0.00
+Kelvin Benjamin* Car WR O,WR,0.00,-105.29,0.00
+DeAndre Smelter* SF WR O,WR,0.00,-105.29,0.00
+Ryan Fitzpatrick NYJ QB,QB,128.34,-108.12,11.40
+Brian Hoyer Hou QB,QB,116.94,-119.52,38.33
+Geno Smith* NYJ QB O,QB,78.61,-157.85,12.65
+Ryan Mallett Hou QB,QB,65.96,-170.50,15.98
+Jimmy Garoppolo NE QB,QB,49.98,-186.48,14.03
+Kirk Cousins Wsh QB,QB,35.96,-200.50,3.02
+Matt Cassel Buf QB,QB,32.94,-203.52,22.16
+Colt McCoy Wsh QB,QB,10.78,-225.68,0.56
+Drew Stanton Ari QB,QB,10.23,-226.23,0.04
+Jimmy Clausen Chi QB Q,QB,10.19,-226.27,0.73
+Johnny Manziel Cle QB Q,QB,9.45,-227.01,0.41
+EJ Manuel Buf QB,QB,9.04,-227.42,0.82
+Derek Anderson Car QB,QB,8.22,-228.24,0.79
+Michael Vick NYJ QB,QB,7.43,-229.03,0.08
+Mark Sanchez Phi QB,QB,7.35,-229.11,0.08
+Blaine Gabbert SF QB,QB,7.27,-229.19,0.28
+Brandon Weeden Dal QB P,QB,6.99,-229.47,0.15
+Chase Daniel KC QB,QB,6.84,-229.62,0.05
+Austin Davis StL QB,QB,6.79,-229.67,6.01
+Brock Osweiler Den QB,QB,0.78,-235.68,0.19
+Luke McCown NO QB,QB,0.59,-235.87,0.02
+Matt Hasselbeck Ind QB,QB,0.58,-235.88,0.03
+Dan Orlovsky Det QB,QB,0.55,-235.91,0.03
+Mike Glennon TB QB,QB,0.55,-235.91,0.00
+Kellen Clemens SD QB,QB,0.53,-235.93,0.01
+Matt Moore Mia QB,QB,0.53,-235.93,0.00
+Christian Ponder Oak QB,QB,0.52,-235.94,0.02
+Shaun Hill Min QB,QB,0.50,-235.96,0.03
+Matt Schaub Bal QB,QB,0.50,-235.96,0.00
+T.J. Yates Atl QB,QB,0.50,-235.96,0.00
+Scott Tolzien GB QB P,QB,0.50,-235.96,0.00
+Ryan Nassib NYG QB,QB,0.50,-235.96,0.00
+Chad Henne Jac QB,QB,0.48,-235.98,0.05
+Zach Mettenberger Ten QB,QB,0.48,-235.98,0.00
+Tarvaris Jackson Sea QB Q,QB,0.43,-236.03,0.03
+B.J. Daniels Sea QB,QB,0.43,-236.03,0.00
+AJ McCarron Cin QB,QB,0.40,-236.06,0.28
+Matt Flynn NYJ QB P,QB,0.13,-236.33,0.13
+Ryan Lindley NE QB,QB,0.13,-236.33,0.00
+Bryce Petty NYJ QB,QB,0.13,-236.33,0.00
+Tom Savage Hou QB,QB,0.00,-236.46,0.00
+Sean Mannion StL QB,QB,0.00,-236.46,0.00
+Garrett Grayson NO QB,QB,0.00,-236.46,0.00
+Brett Hundley GB QB,QB,0.00,-236.46,0.00

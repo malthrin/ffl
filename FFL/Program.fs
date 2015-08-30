@@ -20,3 +20,4 @@ let analyze league =
 
 analyze auctionLeague
 analyze carolinaLeague
+analyze carolinaLeagueOldScoring
