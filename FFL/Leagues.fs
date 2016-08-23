@@ -32,7 +32,7 @@ let auctionRoster =
     }
 let auctionLeague = { Name="auction"; Scoring=auctionScoring; Roster=auctionRoster }
 
-let carolinaScoringNew =
+let carolinaScoring =
     {
         PassYd = 0.04
         PassTd = 4
@@ -43,19 +43,6 @@ let carolinaScoringNew =
         RecYd = 0.1
         RecTd = 6
     }
-
-let carolinaScoringOld =
-    {
-        PassYd = 0.025
-        PassTd = 4
-        Int = 0
-        RushYd = 0.04
-        RushTd = 6
-        PPR = false
-        RecYd = 0.066
-        RecTd = 6
-    }
-
 let carolinaRoster = 
     {
         Quarterbacks = 1
@@ -63,8 +50,7 @@ let carolinaRoster =
         WideReceivers = 2
         TightEnds = 1
         FlexRBWR = 0
-        FlexRBWRTE = 0
+        FlexRBWRTE = 1
         NumTeams = 10
     }
-let carolinaLeague = { Name="Carolina"; Scoring=carolinaScoringNew; Roster=carolinaRoster }
-let carolinaLeagueOldScoring = { Name="Carolina_OLD"; Scoring=carolinaScoringOld; Roster=carolinaRoster }
+let carolinaLeague = { Name="Carolina"; Scoring=carolinaScoring; Roster=carolinaRoster }

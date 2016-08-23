@@ -3,7 +3,10 @@ open Shared
 open FileIO
 open System
 
-let double s = Double.Parse s
+let double s =
+    match s with
+    | "--" -> 0.0
+    | _ -> Double.Parse s
 
 let parsePassing (values:string array) =
     {
